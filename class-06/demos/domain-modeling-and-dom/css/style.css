@@ -1,0 +1,41 @@
+
+header {
+  background: #000;
+  height: 50px;
+  text-align: center;
+  padding: 15px 0 0;
+  color: #fff;
+  font-size: 29px;
+  font-family: monospace;
+  position: sticky;
+}
+h2{
+  font-size: 30px;
+  padding: 20px 0 10px;
+}
+main{
+  padding: 0 30px;
+}
+#kittenProfiles article {
+  width: 28%;
+  box-shadow: 2px 0px 24px #ddd;
+  float: left;
+  padding: 22px 15px;
+  text-align: center;
+  margin: 10px 0;
+  margin-left: 10px;
+  height: 300px;
+}
+#kittenProfiles article img{
+  width: 80%;
+  height: 141px;
+}
+#kittenProfiles article ul {
+  list-style: decimal;
+  text-align: left;
+  padding-left: 2em;
+}
+#kittenProfiles article p {
+  font-size: 14px;
+  padding: 17px 0;
+}
